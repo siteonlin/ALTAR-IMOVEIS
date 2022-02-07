@@ -49,17 +49,26 @@
     "site_lang": "en",
     "uniqCompNum": 9,
     "versionPublish": "5.3.0",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": false,
+    "mbrsiteDomain": "f4u7ht4phx",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "ALTAR IMOVÉIS",
+        "meta_descr": "Altar Imóveis | Creci 35950/J | Serviços de Compra, Venda/Locação, Perícias Judiciais e Administração Patrimonial\n",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/2.png"
       },
       "components": [
         {
